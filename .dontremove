@@ -1,0 +1,12 @@
+.git
+.gitignore
+.dontremove
+users.db
+TOP_SECRET
+main.py
+send_support_message.py
+youtube_part.py
+count_users.py
+languages.json
+users_settings.json
+video_database.csv

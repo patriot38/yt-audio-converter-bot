@@ -1,0 +1,75 @@
+[
+  {
+    "lang": ["English", "en"],
+    "translations": {
+      "#REPORT_THANKS": "Thank you for your report!",
+      "#SELECT_VIDEO": "Please select video",
+      "#WRONG_LINK": "Sorry, you have sent a wrong link!",
+      "#LINK_TO_PLAYLIST_ERROR": "Please don't send me a link to a playlist!",
+      "#LIVE_STREAM_ERROR": "Why are you sending me a live stream?",
+      "#MAX_FILE_SIZE_ERROR": "Currently I am not able to send files with size more than 50 MB. Sorry.",
+      "#REPORT_TEXT": "Ok, I'll send your next message to the bot's admin",
+      "#STATUS_DOWNLOADING_VIDEO": "STATUS: Downloading the video...",
+      "#STATUS_SENDING_AUDIO": "STATUS: Sending the audio...",
+      "#START_MSG_REPLY": "Hi! It's very cool that you're here. I can convert videos from YouTube to audio and send 'em to you. You can search for YT videos right here (just send to me a search request).",
+      "#DONATE_MSG_REPLY": "Nothing...",
+      "#INFO_MSG_REPLY": "INFO REPLY",
+      "#LANG_CHANGE_SUCCESS": "Language changed successfully",
+      "#WRONG_REPORT_MSG": "Wrong report message"
+    }
+  },
+    {
+    "lang_name": ["Русский", "ru"],
+    "translations": {
+      "#REPORT_THANKS": "Спасибо за репорт!",
+      "#SELECT_VIDEO": "Пожалуйста, выберите видео:",
+      "#WRONG_LINK": "Вы отправили неправильную ссылку!",
+      "#LINK_TO_PLAYLIST_ERROR": "Пожалуйста, не отправляйте мне ссылку на плейлист. Я пока не имею достаточно ресурсов, чтобы их обрабатывать.",
+      "#LIVE_STREAM_ERROR": "Почему вы мне отправляете ссылку на live stream?",
+      "#MAX_FILE_SIZE_ERROR": "Увы, я пока не могу отправлять файлы с размером > 50 МБ",
+      "#REPORT_TEXT": "Следующее сообщение я отправлю админу бота",
+      "#STATUS_DOWNLOADING_VIDEO": "СТАТУС: Скачивание видео...",
+      "#STATUS_SENDING_AUDIO": "СТАТУС: Отправка аудио..",
+      "#START_MSG_REPLY": "Привет! Это прекрасно, что ты оказался здесь. Я могу обрабатывать видео с YouTubа и скидывать тебе их как аудио. Также есть поиск, прямо тут.",
+      "#INFO_MSG_REPLY": "INFO MSG REPLY",
+      "#LANG_CHANGE_SUCCESS": "Язык поменялся на русский.",
+      "#WRONG_REPORT_MSG": "Неправильное сообщение."
+    }
+  },
+  {
+    "lang_name": ["Español", "es"],
+    "translations": {
+      "#REPORT_THANKS": "Gracias por el informe!",
+      "#SELECT_VIDEO": "Por favor, elija video:",
+      "#WRONG_LINK": "¡Has enviado un enlace incorrecto!",
+      "#LINK_TO_PLAYLIST_ERROR": "No envíe un enlace a una lista de reproducción. Actualmente no tengo suficiente poder para procesarlos.",
+      "#LIVE_STREAM_ERROR": "¡No envíe un enlace a una transmisión en vivo!",
+      "#MAX_FILE_SIZE_ERROR": "Lo siento, pero no puedo cargar archivos con un tamaño superior a 50 MB.",
+      "#REPORT_TEXT": "El siguiente mensaje se enviará al administrador.",
+      "#STATUS_DOWNLOADING_VIDEO": "ESTADO: Descargando el video....",
+      "#STATUS_SENDING_AUDIO": "ESTADO: Enviando el audio.",
+      "#START_MSG_REPLY": "¡Hola! Puedo procesar videos de youtube y enviárselos como audio. Se admite la búsqueda.",
+      "#INFO_MSG_REPLY": "INFO MSG REPLY",
+      "#LANG_CHANGE_SUCCESS": "El idioma se ha configurado en español.",
+      "#WRONG_REPORT_MSG": "Mensaje equivocado."
+    }
+  },
+  {
+    "lang": ["Indonesian", "id"],
+    "translations": {
+      "#REPORT_THANKS": "Terima kasih atas laporan Anda!",
+      "#SELECT_VIDEO": "Pilih satu video",
+      "#WRONG_LINK": "Maaf, Anda telah mengirim tautan yang salah!",
+      "#LINK_TO_PLAYLIST_ERROR": "Tolong jangan kirimi saya link ke playlist!",
+      "#LIVE_STREAM_ERROR": "Mengapa Anda mengirimi saya streaming langsung?",
+      "#MAX_FILE_SIZE_ERROR": "Saat ini saya tidak dapat mengirim file dengan ukuran lebih dari 50 MB.",
+      "#REPORT_TEXT": "Oke, saya akan mengirimkan pesan Anda berikutnya ke admin bot",
+      "#STATUS_DOWNLOADING_VIDEO": "STATUS: Mendownload video...",
+      "#STATUS_SENDING_AUDIO": "STATUS: Mengirim audio...",
+      "#START_MSG_REPLY": "Hai! Sangat keren kau ada di sini. Saya dapat mengonversi video dari YouTube ke audio dan mengirimkannya kepada Anda. Anda dapat mencari video youtube di sini (kirimkan saya permintaan pencarian).",
+      "#INFO_MSG_REPLY": "INFO MSG REPLY",
+      "#LANG_CHANGE_SUCCESS": "Bahasa berhasil diubah",
+      "#WRONG_REPORT_MSG": "Pesan laporan salah"
+    }
+  }
+]

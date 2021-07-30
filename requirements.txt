@@ -1,0 +1,7 @@
+PyTelegramBotApi
+youtube_dl
+youtube-search-python
+requests
+# System shit
+# ffmpeg
+# webp
